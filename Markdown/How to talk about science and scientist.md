@@ -103,11 +103,3 @@
 1. socius                   :	陪伴，同伴 companion
 	- sociology             : 	社会学（陪伴，社会+学科）
 	- asocial               : 	反社会的，不合群的（反对+同伴，社会）
-
-
-
-
-
-
-
-
